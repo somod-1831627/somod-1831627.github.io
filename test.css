@@ -1,13 +1,13 @@
 body{
-    background-color: #8E41D5;
-    background-image: url('dark_wood.zip');
+    background-image: url('dark_wood.png');
 
 }
 
 p{
     color: white;
     font-family: "Arial";
-    background-color: #8E41D5
+    background-color: #8E41d5
+   
 
 }
 
@@ -16,12 +16,13 @@ h3{
     font-size: 40px;
     font-family: "Passion One";
     margin-bottom: 0px;
-    background-color: #8E41D5
+    background-color: #8E41d5
+ 
 
 }
 
 li{
-background-color: #8E41D5
+    background-color: #8E41d5
 }
 
 #Header{
@@ -31,7 +32,8 @@ background-color: #8E41D5
     margin-right: auto;
     margin-bottom: 10px;
     border:solid 8px black;
-    background-color: #8E41D5
+    background-color: #8E41d5
+
 }
 
 #Header h1{
@@ -39,7 +41,8 @@ background-color: #8E41D5
     font-family: "Passion One";
     color: #FFBC00;
     font-weight: bold;
-    background-color: #8E41D5
+    background-color: #8E41d5
+
 
 }
 
@@ -56,15 +59,15 @@ background-color: #8E41D5
 }
 
 #LeftNav img{
-background-color: #8E41D5
+    background-color: #8E41d5
 }
 
 #LeftNav ul{
-    background-color: #8E41D5
+    background-color: #8E41d5
 }
 
 #LeftNav h3{
-    background-color: #8E41D5
+    background-color: #8E41d5
 }
 
 #Content{
@@ -75,22 +78,25 @@ background-color: #8E41D5
     margin-bottom: 10px;
     border:solid 8px black;
     padding-bottom: 15px;
-    background-color: #8E41D5
+    background-color: #8E41d5
+    
 }
 
 #Footer{
     text-align: center;
     border:solid 8px black;
-    background-color: #8E41D5
+    background-color: #8E41d5
+    
 }
 ul{
     list-style-type: none;
     padding-left: 0px;
-    background-color: #8E41D5
+    background-color: #8E41d5
 }
 a{
     color: white;
     font-weight:bold;
     font-size:24px;
+    background-color: #8E41d5
 
 }
